@@ -1,5 +1,4 @@
 import numpy as np
-#source: https://github.com/peleccom/spolks-2013-2014-sem2-050503_pitkin/blob/master/mpi/matrix.py
 
 def mul_matrix(a,b,c,dim):
     """multiply matrix"""
